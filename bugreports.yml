@@ -1,4 +1,17 @@
 - summary: |
+    Не реализован функционал авторизации
+  environment: |
+    Chrome 112.0.5615.121 (Official Build) (arm64)
+    MacOS Ventura 13.3.1
+  steps-to-reproduce: |
+    1. Открыть магазин
+    2. Найти кнопку авторизации
+  expected-result: |
+    Есть возможность авторизоваться
+  actual-result: |
+    Функционал авторизации не реализован
+
+- summary: |
     Нет возможности сбросить фильтр по категории
   environment: |
     Chrome 112.0.5615.121 (Official Build) (arm64)
